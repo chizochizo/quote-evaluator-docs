@@ -26,12 +26,17 @@ Automated Audit: The engine validates data, normalizes units, and flags hidden f
 Instant Decision: View clear landed cost rankings and risk assessments to make a confident purchasing decision.
 
 👉 Try it live right now: Access the Procurement Decision & Risk Engine
+https://quote-evaluator-un5v7w5mzbhk3iwrgw4tgm.streamlit.app/
 
-🛠️ Built With
-Engine & Logic: Python, Pydantic (Robust Data Validation)
+---
 
+## 🛠️ Built With
+* **Engine & Logic:** Python, Pydantic (Robust Data Validation)
+* **AI Extraction & Resilience:** Google Gemini API (with automated multi-key failover pool)
+* **Interface:** Streamlit Cloud
 AI Extraction & Resilience: Google Gemini API (with automated multi-key failover pool)
 
 Interface: Streamlit Cloud
 
-For commercial licensing, enterprise deployment inquiries, or custom feature requests, reach out via GitHub or visit our official distribution channel.
+For commercial licensing, enterprise deployment inquiries, or custom feature requests, [start a discussion on GitHub](https://github.com/chizochizo/quote-evaluator-docs/discussions) or open an issue.
+
