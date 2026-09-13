@@ -1,5 +1,5 @@
 # quote-evaluator-docs
-Procurement Decision & Risk Engine
+AuditQuote
 Stop losing margin to hidden supplier fees and manual spreadsheet errors.
 An automated enterprise-grade engine that audits, normalizes, and ranks supplier quotations in seconds.
 
@@ -7,7 +7,7 @@ An automated enterprise-grade engine that audits, normalizes, and ranks supplier
 Procurement teams waste hours manually cross-referencing supplier quotes. Disparate measurement units (e.g., metric tons vs. kilograms), buried shipping terms, and opaque tax structures lead to costly miscalculations and overlooked vendor risks.
 
 💡 The Solution
-The Procurement Decision & Risk Engine automates the entire audit workflow using deterministic rules and intelligent extraction. It instantly turns messy vendor paperwork into clear, standardized commercial intelligence.
+The AuditQuote automates the entire audit workflow using deterministic rules and intelligent extraction. It instantly turns messy vendor paperwork into clear, standardized commercial intelligence.
 
 Core Capabilities:
 Deterministic Category Gating: Automatically screens and categorizes incoming quotes against strict compliance standards.
@@ -25,7 +25,7 @@ Automated Audit: The engine validates data, normalizes units, and flags hidden f
 
 Instant Decision: View clear landed cost rankings and risk assessments to make a confident purchasing decision.
 
-👉 Try it live right now: Access the Procurement Decision & Risk Engine
+👉 Try it live right now: Access the AuditQuote
 https://quote-evaluator-un5v7w5mzbhk3iwrgw4tgm.streamlit.app/
 
 ---
